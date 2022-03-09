@@ -1,0 +1,1 @@
+#Create a program that prompts the user for a float number and returns the integer portion of the floating number.

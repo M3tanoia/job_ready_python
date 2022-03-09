@@ -1,0 +1,2 @@
+#Write a program that asks the user how much money they have in their wallet. 
+#The program should output “You're rich!” if the user inputs $20 or more and “You're broke!” if the input is less than $20.

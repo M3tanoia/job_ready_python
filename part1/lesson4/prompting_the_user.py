@@ -1,0 +1,2 @@
+#Create a program that prompts the user to enter a number and then displays the type of the number entered (e.g., complex, integer, or float).
+#For example, if the user enters 6, the output should be int (for integer).

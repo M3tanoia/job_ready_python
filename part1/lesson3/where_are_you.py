@@ -1,0 +1,2 @@
+#Create a script that prompts the user for the name of the state where they were born and the name of the state where they live now. 
+#Save each value in its own variable and display the input values to the user.
