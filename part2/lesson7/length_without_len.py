@@ -1,0 +1,1 @@
+#Write a Python script that computes the length of a string without using the len() function.

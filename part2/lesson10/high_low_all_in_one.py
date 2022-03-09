@@ -1,0 +1,1 @@
+#Rewrite your code in Exercise 3 so that you create only one new dictionary to determine the number of low and high balances and their averages. Hint: you can use the clear() method.

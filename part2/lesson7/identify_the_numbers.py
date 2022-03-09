@@ -1,0 +1,1 @@
+#Write two scripts. The first should identify all prime numbers between 0 and 100, and the second should compute the sum of all numbers between 0 and 100.

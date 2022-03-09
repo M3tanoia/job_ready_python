@@ -1,0 +1,2 @@
+#Prompt the user to answer a series of 3–5 questions about themselves (such as their name, their age, their birthday, or where they live) 
+# and save the answers in a list. Display the results to the user.

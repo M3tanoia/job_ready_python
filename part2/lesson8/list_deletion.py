@@ -1,0 +1,2 @@
+#Present the user with a list of 7–9 items (such as the lists created in the previous exercises). 
+# Prompt the user to enter one item to delete from the list. Delete the named item from the list and display the updated list.

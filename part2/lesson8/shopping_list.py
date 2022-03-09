@@ -1,0 +1,2 @@
+#Present the user with an existing list of items (such as a shopping list for the grocery store) and prompt the user for 2–4 more items to add to the list. 
+# Update the list with the new items and display the updated list.

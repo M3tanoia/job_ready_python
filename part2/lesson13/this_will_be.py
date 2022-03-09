@@ -1,0 +1,1 @@
+#Create a function that searches a string for an input group of characters and replaces each instance of the group with a new group of characters. For example, the function might be used to replace all occurrences of the phrase “this is” with “this will be.”
